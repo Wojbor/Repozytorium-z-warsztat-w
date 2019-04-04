@@ -8,3 +8,10 @@ dfjhgdkfjg
 
 #Gotowa dokumentacja testowa.
 
+
+
+
+#### Licencja
+
+Coś tam
+
